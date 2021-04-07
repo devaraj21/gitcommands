@@ -14,6 +14,7 @@ export default class App extends Component {
       <View style={{height:80,width:80,backgroundColor:'black'}}>
         <Text>hiiiii i am Devaraj</Text>
         <Text>hiiiii i am Raamu</Text>
+        <Text>hii im aswini</Text>
       </View>
     </View>
 
